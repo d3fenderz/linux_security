@@ -1,6 +1,6 @@
 # Linux recovery abuse
 
-Misknown hacking method on Linux and ways to protect 🧢
+Misknown hacking method on Linux that relies on the single user mode and ways to protect 🧢
 
 ## Introduction
 
@@ -44,7 +44,14 @@ Even if the first one should be enough for this particular case, you may combine
 * Do not only consider the `/home`, use full disk encryption
 * Set admin password in the BIOS
 * Set user password in the BIOS and require it during the boot
-* Set a GRUB password (there are tutorials for that, but ensure you backup your files before)
+
+## Don't touch the GRUB
+
+After some tests, I don't recommend setting a GRUB password or removing the GRUB rescue anymore.
+
+While it's possible and might work in your case, it's the most hacky approach and not the most efficient one. There's a significant risk to mess up the booting sequence, which can be hard to recover.
+
+In another perspective, dual boot configurations are also bad from a security perspective.
 
 ## 7 links for Linux security
 
