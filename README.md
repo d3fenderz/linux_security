@@ -51,7 +51,7 @@ After some tests, I don't recommend setting a GRUB password or removing the GRUB
 
 While it's possible and might work in your case, it's the most hacky approach and not the most efficient one. There's a significant risk to mess up the booting sequence, which can be hard to recover.
 
-In another perspective, dual boot configurations are also bad from a security perspective.
+In another perspective, dual boot configurations are bad from a security perspective.
 
 ## 7 links for Linux security
 
