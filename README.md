@@ -24,7 +24,7 @@ Please open an issue if you spot something weird.
 
 I'm totally aware that when an attacker has access to the machine it's hard to completely secure it, but this easy method should be more documented, IMHO.
 
-## Quick steps to bypass Linux login
+### Quick steps to bypass Linux login
 
 1. reboot and press `shift` just after to start the GRUB menu
 2. select "Advanced options for Ubuntu"
