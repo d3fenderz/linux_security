@@ -55,7 +55,7 @@ While it's possible and might work in your case, it's the most hacky approach an
 
 In another perspective, dual boot configurations are bad from a security perspective.
 
-### 7 links for Linux security
+## 7 links for Linux security
 
 Here are useful links to go further:
 
