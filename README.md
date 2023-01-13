@@ -326,7 +326,7 @@ These free programs can ease network inspection significantly:
 
 #### Quick Todo list to secure your machine
 
-In my experience, Linux requires manual hardening. As basic security hygiene, you may apply the following:
+In my experience, Linux requires manual hardening. You may apply the following for basic security hygiene:
 
 * use full disk encryption, not just for your ~/home folder
 * disable any telemetry (e.g., disable system reports, don’t send crash reports) and file history if you don’t need them, which is likely
