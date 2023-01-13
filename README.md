@@ -123,7 +123,7 @@ uname -r
 hostnamectl | grep Kernel
 ```
 
-Then, it's not very complicated to relate it with a known exploit, as many CVE have public POCs (proof of concept). A list of vulnerable kernel versions and exploits can be found [here](https://github.com/lucyoa/kernel-exploits).
+Then, it's not very complicated to relate it with a known exploit, as many CVEs have public POCs (proof of concept). A list of vulnerable kernel versions and exploits can be found [here](https://github.com/lucyoa/kernel-exploits).
 
 You can also check dedicated platforms, if the most recent ones are not listed.
 
