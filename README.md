@@ -292,7 +292,7 @@ I also like the `smem` utility. It's a very light command-line memory tool that 
 
 #### Enumerate like an attacker
 
-Why not using attacking tools to spot vulnerabilities?
+Why not using CTF tools to spot vulnerabilities?
 
 * [Lynis](https://github.com/CISOfy/lynis)
 * [Linux Exploit Suggester](https://github.com/The-Z-Labs/linux-exploit-suggester)
