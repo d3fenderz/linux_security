@@ -262,8 +262,6 @@ sudo lsof -r -i :22
 journalctl -S -4h
 ```
 
-[Source: blog archives - how to inspect a Linux machine](https://blog.julien-maury.dev/en/inspect-linux/)
-
 #### Cheat sheet
 
 Learn additional commands in [the Blue Sheet](https://github.com/jmau111-org/blue_sheet)
@@ -335,8 +333,6 @@ In my experience, Linux requires manual hardening. You may apply the following f
 * cover your camera
 * lock down the desktop, but also the BIOS (e.g., set administrator password)
 * consider moving to SELinux
-
-[Source: blog archives - some thoughts about Linux security](https://blog.julien-maury.dev/en/snippets/linux-security-levelup/).
 
 #### FDE (Full Disk Encryption)
 
