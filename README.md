@@ -454,6 +454,6 @@ Here are useful links to go further:
 * [Linux security and system hardening checklist](https://linuxsecurity.expert/checklists/linux-security-and-system-hardening)
 * [NSA - Linux hardening](https://github.com/shaurya-007/NSA-Linux-Hardening-docs)
 * [Hacktricks - Linux privilege escalation](https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist)
-* [Linux Training](https://linux-training.be/)
+* [Linux Kernel](https://www.kernel.org/doc/html/latest/)
 * [PayloadsAllTheThings - Linux Privesc](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
 * [Detecting Linux memfd_create()](https://sandflysecurity.com/blog/detecting-linux-memfd-create-fileless-malware-with-command-line-forensics/)
