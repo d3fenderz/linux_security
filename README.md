@@ -135,13 +135,13 @@ It should be noted that kernel protection has been improved over the past years,
 
 Hacking memory is often rewarding. Some credentials may appear in clear text, and you can even gain root privileges in the best-case scenario. Linux has special directories such as `/proc/` and `/dev/mem` that exposes memory processes, for example.
 
-To understand how it works, read about virtual memory vs. physical memory.
+To understand how it works, read about virtual memory (~ extended memory with hard disk) vs. physical memory (~ RAM).
 
-Pwnkit is probably the most popular Linux kit for memory corruption, allowing root access with an unprivileged account. The bug has been known for years (12), but the patch is relatively recent (at the time of writing).
+Pwnkit, a popular Linux kit for memory corruption, allows root access with an unprivileged account. The bug has been known for years (12), but the patch is relatively recent (at the time of writing).
 
-However, memory protection has also improved, sometimes making classic attacks impossible. 
+Don't panic, though. Memory protection has also improved, sometimes making classic attacks impossible in real-world conditions.
 
-It's hard to provide good examples, as you would need advanced knowledge to understand why it works and most documented POCs are outdated (~ patched).
+The bad news is that most documented POCs are outdated (~ patched).
 
 However, you may google terms like [buffer overflow](https://www.cloudflare.com/learning/security/threats/buffer-overflow/) or [Heartbleed](https://xkcd.com/1354/) for practical examples.
 
