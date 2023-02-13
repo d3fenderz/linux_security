@@ -82,7 +82,7 @@ I've also read [this book](https://a.co/d/3Hfp7S9) and [this other one](https://
 
 ## Installing Linux for cybersecurity
 
-Of course, [Kali Linux](https://www.kali.org/) is a fantastic distro to create your own lab. If you don't need all tools and you are a beginner, you might want to install a Debian-based distro or Debian itself instead. You can use my repos [golinux](https://github.com/jmau111-org/golinux) to install a few packages.
+Of course, [Kali Linux](https://www.kali.org/) is a fantastic distro to create your own lab. If you don't need all tools and you are a beginner, you might want to install a Debian-based distro or Debian itself instead. You can use my repos [godebian](https://github.com/jmau111-org/godebian) to install a few packages.
 
 I would also recommend a virtual machine to isolate your environment.
 
