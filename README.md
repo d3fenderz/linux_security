@@ -1,6 +1,6 @@
 # Linux Security
 
-![GitHub last commit](https://img.shields.io/github/last-commit/jmau111-org/linux_security?label=last%20update%3A)
+![GitHub last commit](https://img.shields.io/github/last-commit/d3fenderz/linux_security?label=last%20update%3A)
 
 ## Transparency
 
@@ -364,8 +364,6 @@ It's easy to understand why incoming traffic must be filtered, perhaps entirely 
 
 However, you should not neglect outgoing traffic. While it's a bit more constraining to configure, there's no reason to allow all ports on out.
 
-Read [Filter Outgoing traffic](https://jmau111.github.io/2023/01/02/outgoing-traffic/) for more details.
-
 #### Use a VPN
 
 It's indeed not specific to Linux, but many solutions on the market are compatible with _the Penguin_. Because I'd like keep this guide agnostic, I'm not recommending a particular one, but you may use OpenVPN, as a large range of providers will provide ready-to-use configuration files and an interface for it.
@@ -443,8 +441,6 @@ sudo sestatus
 We remove AppArmor because the two packages have similar purposes: isolation.
 
 Unlike the Enforcing mode, the Permissive mode does not block denied operations, but it logs them, for example, in `/var/log/audit/audit.log`.
-
-Check [this post](https://jmau111.github.io/2023/01/18/selinux-guide-beginners/) for more details about SELinux.
 
 ## 7 links to go further
 
