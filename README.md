@@ -82,7 +82,7 @@ I've also read [this book](https://a.co/d/3Hfp7S9) and [this other one](https://
 
 ## Installing Linux for cybersecurity
 
-Of course, [Kali Linux](https://www.kali.org/) is a fantastic distro to create your own lab. If you don't need all tools and you are a beginner, you might want to install a Debian-based distro or Debian itself instead. You can use my repos [godebian](https://github.com/jmau111-org/godebian) to install a few packages.
+Of course, [Kali Linux](https://www.kali.org/) is a fantastic distro to create your own lab. If you don't need all tools and you are a beginner, you might want to install a Debian-based distro or Debian itself instead. You can use my repos [godebian](https://github.com/d3fenderz/godebian) to install a few packages.
 
 I would also recommend a virtual machine to isolate your environment.
 
@@ -264,7 +264,7 @@ journalctl -S -4h
 
 #### Cheat sheet
 
-Learn additional commands in [the Blue Sheet](https://github.com/jmau111-org/blue_sheet)
+Learn additional commands in [the Blue Sheet](https://github.com/d3fenderz/blue_sheet)
 
 #### Quick Todo list inspection
 
